@@ -1,0 +1,41 @@
+h1 {
+  text-align: center;
+  margin-top: 2em;
+}
+
+h2 {
+  position: relative;
+  width: 100px;
+  text-align: center;
+  border-style: solid;
+  border-width: 2px;
+  float: right;
+  right: -2px;
+  top: -2px;
+  margin: 0px;
+}
+
+section {
+  position: relative;
+  background-color: gray;
+  width: 400px;
+
+  border-style: solid;
+  border-width: 2px;
+  margin: 10px;
+}
+
+#c1 {
+  background-color: salmon;
+}
+#c2 {
+  background-color: red;
+  color: white;
+  border-color: black;
+}
+#c3 {
+  background-color: #ffcc66;
+}
+p {
+  padding: 5px;
+}
