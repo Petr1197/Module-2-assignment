@@ -27,7 +27,7 @@ section {
   position: relative;
   background-color: gray;
   box-sizing: margin-box;
-  width: 30%;
+  width: 30.87%;
   border-style: solid;
   border-width: 2px;
   margin: 0px;
@@ -56,12 +56,12 @@ p {
   #s3 {
     display: block;
     clear: both;
-    width: 93%;
+    width: 96%;
     margin-right: 10px;
   }
   section {
     margin: 10px;
-    width: 45%;
+    width: 46.74%;
   }
 }
 @media (max-width: 767px) {
